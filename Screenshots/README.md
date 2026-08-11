@@ -20,8 +20,6 @@ The environment was built from scratch to simulate a real business network and t
 - File Server
 - NTFS Permissions
 - Windows 11
-- PowerShell
-
 ---
 
 ## Infrastructure
@@ -51,7 +49,6 @@ company.local
 - Shared folders
 - Drive Mapping
 - Group Policy
-- PowerShell administration
 
 ---
 
@@ -60,7 +57,6 @@ company.local
 ```
 Architecture/
 Screenshots/
-PowerShell/
 Documentation/
 ```
 
@@ -74,7 +70,6 @@ Documentation/
 - DNS & DHCP
 - User and Group administration
 - Windows troubleshooting
-- PowerShell basics
 - Documentation
 
 ---
