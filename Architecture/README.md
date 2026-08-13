@@ -24,7 +24,8 @@ The environment was built from scratch to simulate a real business network and t
 
 ## Infrastructure
 
-- 1 Domain Controller
+- 2 Domain Controller
+- 1 File Server
 - 2 Windows 11 Clients
 - Private virtual network
 - Active Directory domain
